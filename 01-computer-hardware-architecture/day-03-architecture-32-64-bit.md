@@ -83,3 +83,7 @@ On your Windows computer:
 4. Check whether it says a 64-bit or 32-bit operating system and which processor architecture is listed.
 
 You can also open Command Prompt and run:
+
+Look for the System Type field. It may show x64-based PC or x86-based PC.
+
+This is a read-only check; you don't need to install anything.
