@@ -73,10 +73,13 @@ Important distinction: Fetch–decode–execute explains how instructions are pr
 4. Three important terms to remember
 
 Program Counter (PC)
+
 Holds the memory address of the next instruction to fetch.
 
 Registers
+
 Very small, very fast storage locations inside the CPU.
 
 ALU (Arithmetic Logic Unit)
+
 Performs arithmetic operations and logical comparisons.
