@@ -51,6 +51,4 @@ Daily quizzes were used to review understanding of the concepts studied. Record 
 
 This module helped me connect computer architecture concepts with cybersecurity and digital forensics. I will continue strengthening these foundations as I progress to secure networking, Windows security, cryptography, and reverse engineering.
 
-## Next Module
 
-Secure Networks
