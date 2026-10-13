@@ -149,3 +149,61 @@ An investigator might ask:
 - Could disk encryption affect evidence acquisition?
 
 These questions help establish the system's security state. Investigators should preserve evidence and document findings rather than assuming that a disabled Secure Boot setting proves an attack occurred.
+
+9. Day 5 quiz — five questions
+  
+1. What is UEFI primarily responsible for in this context?
+
+Editing documents
+
+Providing firmware services and starting the boot process
+
+Scanning every downloaded file
+
+Correct! UEFI initialises hardware and helps select and start boot components.
+
+
+2. What does Secure Boot help do?
+
+Verify boot components against trusted keys and policies
+
+Guarantee that all malware is blocked
+
+Encrypt every file on the computer
+
+Correct! Secure Boot verifies boot components according to configured trust policies.
+
+
+3. What does TPM stand for?
+
+Trusted Platform Module
+
+Total Protection Manager
+
+Trusted Processing Memory
+
+Correct! TPM stands for Trusted Platform Module.
+
+
+4. What is a bootkit?
+
+A normal computer accessory
+
+Malware that targets the boot process or early startup components
+
+A backup file format
+
+Correct! Bootkits target the startup chain and may attempt to establish early persistence.
+
+
+5. How can you inspect Secure Boot status in Windows?
+
+Open msinfo32 and check Secure Boot State
+
+Delete the bootloader
+
+Clear the TPM
+
+Correct! System Information lets you inspect BIOS Mode and Secure Boot State without changing them.
+
+Your score: 5/5
