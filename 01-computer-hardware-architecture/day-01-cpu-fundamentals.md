@@ -83,3 +83,59 @@ Very small, very fast storage locations inside the CPU.
 ALU (Arithmetic Logic Unit)
 
 Performs arithmetic operations and logical comparisons.
+
+5. Quick knowledge check
+
+1. What is the correct order of the basic instruction cycle?
+
+Decode → Fetch → Execute
+
+Fetch → Decode → Execute
+
+Execute → Fetch → Decode
+
+Correct! — The CPU retrieves an instruction, interprets it, and then performs the operation.
+
+
+2. Which component holds the address of the next instruction?
+
+ALU
+
+Program Counter
+
+Hard disk
+
+Correct! — The Program Counter tracks the next instruction address.
+
+
+3. Which component performs arithmetic operations such as addition?
+
+ALU
+
+Program Counter
+
+SSD
+
+Correct! — The Arithmetic Logic Unit performs arithmetic and logical operations.
+
+
+4. Does the CPU automatically know that a program is malicious?
+
+Yes, every malicious instruction is automatically recognised
+
+No, it executes instructions while security controls and analysis help detect or restrict malicious activity
+
+Correct! — Maliciousness depends on behaviour and context, not simply on the instruction cycle.
+
+
+5. A suspicious program executes, changes files and connects to a remote server. What should an investigator do?
+
+Assume the CPU is faulty
+
+Examine process behaviour, file activity and network evidence
+
+Only check the computer's RAM capacity
+
+Correct! — Correlating process, file and network evidence helps establish what the program did.
+
+Your score: 5/5
