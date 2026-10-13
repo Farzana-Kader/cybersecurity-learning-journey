@@ -115,3 +115,61 @@ On Windows, open Task Manager with Ctrl + Shift + Esc.
 This is read-only observation; you don't need to install anything or change system settings.
 
 Notice that logical processors may be greater than physical cores because some CPUs support simultaneous multithreading. The cache sizes shown in Task Manager depend on your processor and Windows version.
+
+7. Quiz — test your understanding
+
+1. What is a CPU core?
+
+A persistent storage device
+
+An individual processing unit within a CPU
+
+A type of computer virus
+
+Correct! A core is an individual processing unit capable of executing instructions.
+
+
+2. What does 3 GHz mean?
+
+Three billion clock cycles per second
+
+Three billion instructions guaranteed per second
+
+Three gigabytes of RAM
+
+Correct! GHz measures clock frequency, not a guaranteed number of completed instructions.
+
+
+3. Which is generally the fastest storage in the hierarchy?
+
+HDD
+
+RAM
+
+CPU registers
+
+Correct! Registers are tiny storage locations directly inside the CPU.
+
+
+4. What is a cache hit?
+
+The CPU finds the requested data in cache
+
+The CPU runs out of RAM
+
+A process is terminated
+
+Correct! A cache hit means the requested item is present in the relevant cache.
+
+
+5. Why are CPU caches relevant to cybersecurity?
+
+They permanently store all user files
+
+Cache behaviour can contribute to side-channel information leaks
+
+They prevent every malware infection
+
+Correct! Timing and cache behaviour can sometimes reveal information indirectly.
+
+Score: 5/5
