@@ -152,3 +152,61 @@ Write down three things you would want to investigate. Good starting points incl
 - The process executable's location, signature and hash.
 
 These are investigative leads, not proof that the process is malicious.
+
+7. Day 6 quiz — five questions
+
+1. What does a hypervisor do?
+
+Creates and manages virtual machines
+
+Encrypts all network traffic automatically
+
+Replaces the CPU
+
+Correct! A hypervisor manages virtual machines and their access to computing resources.
+
+
+2. Which is an example of a Type 2 hypervisor application?
+
+Oracle VirtualBox
+
+The ALU
+
+A page table
+
+Correct! VirtualBox commonly runs as an application on a host operating system.
+
+
+3. Why is RAM important in live forensics?
+
+It permanently retains all evidence after power loss
+
+It may contain volatile evidence such as running process state
+
+It stores only photographs
+
+Correct! RAM may hold evidence that disappears when power is removed.
+
+
+4. What is a side-channel attack?
+
+An attack that infers information through indirect signals such as timing
+
+A normal computer shutdown
+
+A type of disk partition
+
+Correct! Side-channel attacks exploit indirect information leakage rather than necessarily reading protected data directly.
+
+
+5. Why shouldn't an investigator automatically power off a suspected compromised machine?
+
+It would increase the CPU clock speed
+
+It could destroy volatile evidence needed for the investigation
+
+It guarantees that malware spreads
+
+Correct! Powering off loses much volatile memory evidence, so the response must consider evidence preservation and safety.
+
+Your score: 5/5
