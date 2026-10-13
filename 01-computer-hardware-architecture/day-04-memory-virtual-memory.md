@@ -120,3 +120,61 @@ Holds currently resident data and code	Can map to RAM and, in some circumstances
 Shared physical resource across the system	Each process has its own virtual address space
 
 Virtual memory is not simply another name for the page file. The page file is one possible backing store used by Windows; virtual memory also includes address-space mappings and memory-resident pages.
+
+7. Quick quiz — test your understanding
+
+1. What does virtual memory provide to a process?
+
+Its own virtual address space
+
+Unlimited physical RAM
+
+A separate CPU chip
+
+Correct! Virtual memory provides a process-specific address space managed by the operating system and hardware.
+
+
+2. What is a page?
+
+A fixed-size block of virtual memory
+
+A physical CPU core
+
+A file stored only on an SSD
+
+Correct! Virtual memory is divided into fixed-size pages.
+
+
+3. What does a page table help do?
+
+Translate virtual pages to physical frames
+
+Encrypt every file automatically
+
+Schedule Wi-Fi connections
+
+Correct! Page tables hold mappings and access-control information used for address translation.
+
+
+4. Does every page fault indicate malware?
+
+Yes
+
+No; page faults can occur during normal operation
+
+Only on 64-bit systems
+
+Correct! Page faults have many ordinary causes and need context to interpret.
+
+
+5. Why is virtual memory relevant to digital forensics?
+
+It makes all deleted files recoverable
+
+It helps analysts understand process memory, mappings and isolation
+
+It replaces the need to preserve evidence
+
+Correct! Memory mappings and process isolation are important when examining running programs and acquired memory.
+
+Your score: 5/5
