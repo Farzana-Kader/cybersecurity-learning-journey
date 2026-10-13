@@ -87,3 +87,61 @@ You can also open Command Prompt and run:
 Look for the System Type field. It may show x64-based PC or x86-based PC.
 
 This is a read-only check; you don't need to install anything.
+
+6. Quick quiz — 5 questions
+
+1. How many distinct addresses can a 32-bit address represent?
+
+256
+
+2³²
+
+2⁶⁴
+
+Correct! A 32-bit address has 2³² possible bit patterns.
+
+
+2. What does an instruction set architecture define?
+
+Only the computer's screen resolution
+
+The machine instructions and related architectural rules a CPU supports
+
+The size of the computer's hard disk
+
+Correct! The ISA defines the instruction interface and other architectural details.
+
+
+3. Which is a 64-bit architecture used in many smartphones?
+
+AArch64
+
+HTML
+
+NTFS
+
+Correct! AArch64 is the 64-bit execution state of the ARM architecture.
+
+
+4. What is assembly language?
+
+A readable representation of machine instructions
+
+A type of RAM
+
+A network encryption protocol
+
+Correct! Assembly represents machine instructions using readable mnemonics.
+
+
+5. Why does architecture matter during malware analysis?
+
+It determines the colour of the application
+
+It helps an analyst interpret instructions and executable compatibility
+
+It guarantees malware cannot run
+
+Correct! The target architecture helps analysts choose suitable disassembly settings and understand program behaviour.
+
+Your score: 5/5
