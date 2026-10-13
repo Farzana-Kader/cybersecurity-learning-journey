@@ -155,6 +155,7 @@ These are investigative leads, not proof that the process is malicious.
 
 7. Day 6 quiz — five questions
 
+
 1. What does a hypervisor do?
 
 Creates and manages virtual machines
