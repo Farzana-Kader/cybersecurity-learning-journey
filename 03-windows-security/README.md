@@ -133,7 +133,7 @@ Purpose: Calculate a file hash that can support file identification and integrit
 ## 📝 Module Assessment
 
 - **Assessment:** Day 22 — Windows Security Revision
-- **Score:** To be recorded after completing the assessment
+- **Score:** 10/10
 - **Practical work:** Windows security checks and PowerShell exercises
 - **Status:** In progress until the final assessment and documentation are completed
 
